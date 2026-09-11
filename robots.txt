@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KilianLevasseur.github.io/docs-honyv5/sitemap.xml
